@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "CDR";
+  font-weight:normal;
+  src: url("../fonts/CanalDemiRomainG7.otf") format("opentype");
+}
+body {
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.titre {
+  position: absolute;
+  left: 30px;
+  top: 20px;
+  color: #282828;
+  font: normal 72px/72px "CDR";
+}
+.item {
+  position: absolute;
+  width: 188px;
+}
+.item_vignette {
+  height: 105px;
+  background-color: #222222;
+}
+.item_shortname {
+  font: normal 18px/22px "CDR";
+  color: #7f7f7f;
+  text-transform: uppercase;
+  margin-top: 8px;
+}
+.item_baseline {
+  font: normal 18px/22px "CDR";
+  color: #ccc;
+  text-transform: uppercase;
+  -webkit-line-clamp: 2;
+  max-height: 44px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  word-wrap: break-word;
+  white-space: normal;
+}
+.focus {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 206px;
+  height: 194px;
+  border: 3px solid #cccccc;
+}
+.focus_voile {
+  position: relative;
+  left: 8px;
+  top: 8px;
+  width: 188px;
+  height: 105px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.fleche_gauche {
+  position: absolute;
+  left: 50px;
+  top: 310px;
+  color: #cccccc;
+  font: normal 42px/42px "CDR";
+}
+.fleche_droite {
+  position: absolute;
+  left: 1203px;
+  top: 310px;
+  color: #cccccc;
+  font: normal 42px/42px "CDR";
+}
+.page {
+  position: absolute;
+  left: 1187px;
+  top: 646px;
+  color: #777f7f;
+  font: normal 21px/24px "CDR";
+}
