@@ -1,0 +1,708 @@
+﻿D:\CPGRP\Sites\CommonFPI\Config\ENV.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-OSCPF_KISS.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-NECPF_KISS.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-NECPF_ARPU.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-NECPF.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-IORCPF_KISS.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-IORCPF_ARPU.config
+D:\CPGRP\Sites\CommonFPI\Config\ADSL-IORCPF.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\RugbyPlus\v100125\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI AliceNew\ANCPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Android\BACPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\EPG\v120516\Web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity\v120412\web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity\v120717\web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity\v130121\web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity\v130204\web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity2\v131022\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity2\v131030\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Infinity2\v131120\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v130710\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v130717\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Upselling\v120402\Web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Bytel Fibre\BFCPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v030412\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v121004\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v121112\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v121210\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v130605\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU_KISS\201511112\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v130109\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v130605\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\EPG\v120406\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\FootPlus\v100823\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity\v120515\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity\v120717\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity\v130121\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity\v130204\web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity2\v131022\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity2\v131030\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Infinity2\v131120\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v130710\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v130717\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\RugbyPlus\v100823\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Bytel NC\BNCPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v120312\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v120418\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v120730\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v121024\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v121113\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v121210\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v130605\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU_KISS\201511112\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v120730\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v130109\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v130605\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EPG\v111205\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\EPG\v120406\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\FootPlus\v090907\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\FootPlus\v100322\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Infinity\v120717\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Infinity\v130121\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Infinity\v130204\web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Infinity2\v131022\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Infinity2\v131030\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Infinity2\v131120\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Mediasatisfaction\v110707\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Mediasatisfaction\v110715\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.VABF.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.PROD.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v130710\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v130717\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\RugbyPlus\v090910\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\RugbyPlus\v100322\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Bytel\BTCPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI CanalReady\CRCPF\fpi-vabf\Decouverte\v120116\web.config
+D:\CPGRP\Sites\FPI CanalReady\CRCPF\fpi-vabf\EPG\v120116\Web.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Upselling\v110329\Web.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Darty THD\DNCPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\FootPlus\v090715\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\FootPlus\v090907\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\RugbyPlus\v090715\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\RugbyPlus\v090910\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Darty\DACPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Free NE\FECPF\fpi-vabf\InfinityQML\v140814\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free NE\FECPF\fpi-vabf\InfinityQML\v140902\SessionState_VABF.config
+D:\CPGRP\Sites\FPI Free NE\FECPF\fpi-vabf\InfinityQML\v140902\SessionState_PROD.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\FootPlus\v100125\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v130717\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Free\FACPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\Prospect\20150608\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\Prospect\20150608\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\Prospect\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FECPF\fpi-vabf\Prospect\lastversion\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v111115\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v120104\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v120125\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v120801\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v121018\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v121030\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v121113\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v121210\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v130524\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v140410\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\vBYT\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU\vTest\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU_KISS\201511112\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v120627\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v120706\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v120730\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v130109\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v130524\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v140410\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EspaceClient\v101213\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\EspaceClient\v110726\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v091016\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v110704\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v110704\Copie de Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v110704\img\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity\v111125\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity\v120412\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity\v120509\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity\v120514\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity\v130320\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity\v130403\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130403\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130403\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130403\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130703\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130703\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130918\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v130918\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Infinity2\v131212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v140902\SessionState_VABF.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v140902\SessionState_PROD.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v141002\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v141017\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v141021\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v141022\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\InfinityQML\v141023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Mediasatisfaction\v090715\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.VABF.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.PROD.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\OPP\v120713\web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v130710\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v130717\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\RugbyPlus\v091016\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\RugbyPlus\v110407\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\SouscriptionQt5\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\SouscriptionQt5\SouscriptionQt5_3.0\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Free\FRCPF\fpi-vabf\Upselling\v121022_old\Web.config
+D:\CPGRP\Sites\FPI G3\G3CPF\fpi-vabf\FootPlus\v100720\Web.config
+D:\CPGRP\Sites\FPI G3\G3CPF\fpi-vabf\Mediasatisfaction\v090807\Web.config
+D:\CPGRP\Sites\FPI G3\G3CPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.VABF.config
+D:\CPGRP\Sites\FPI G3\G3CPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.PROD.config
+D:\CPGRP\Sites\FPI G3\G3CPF\fpi-vabf\RugbyPlus\v100720\Web.config
+D:\CPGRP\Sites\FPI G4\G4CPF\fpi-vabf\FootPlus\v110512\Web.config
+D:\CPGRP\Sites\FPI G4\G4CPF\fpi-vabf\Mediasatisfaction\v090807\Web.config
+D:\CPGRP\Sites\FPI G4\G4CPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.VABF.config
+D:\CPGRP\Sites\FPI G4\G4CPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.PROD.config
+D:\CPGRP\Sites\FPI G4\G4CPF\fpi-vabf\RugbyPlus\v110512\Web.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU\v141208\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC\v141208\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 Fibre\GFCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v130820\web.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v131003\web.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v131003\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v150115\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v150203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v131003\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v150115\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5 TNT\GNCPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v120709\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v121024\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v121113\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v121210\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v130213\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v130710\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v130822\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v141003\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v141003\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v150115\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v150203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v130213\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v130308\web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v130701\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v130821\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v150115\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\FootPlus\v110512\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\Mediasatisfaction\v110707\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\Mediasatisfaction\v110715\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.VABF.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.PROD.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\PlusDInfos\v120807\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\PlusDInfos\v120829\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\PlusDInfos\v120920\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\PlusDInfos\v121107\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\PlusDInfos\v130108\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\PlusDInfos\v130116\Web.config
+D:\CPGRP\Sites\FPI G5\G5CPF\fpi-vabf\RugbyPlus\v110512\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v120125\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v120801\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v121018\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v121030\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v121113\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v121210\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v130524\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU_KISS\201511112\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v120717\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v130109\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v130524\web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EPG\v101018\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EPG\v110321\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EPG\v111005\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EspaceClient\v101213\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\EspaceClient\v110726\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\FootPlus\v090907\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Grille\v140401\SessionState_VABF.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Grille\v140401\SessionState_PROD.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Mediasatisfaction\v110707\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Mediasatisfaction\v110715\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.VABF.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Mediasatisfaction\v131002\SessionState.PROD.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v130710\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v130717\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\RugbyPlus\v090910\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\RugbyPlus\v101018\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Neuf\NECPF\fpi-vabf\Upselling\v130301\Web.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\20150929\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\20150929\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\20151012\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\20151012\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\20151026\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\20151026\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect\lastversion\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\20150929\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\20150929\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\20151012\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\20151012\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\20151026\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\20151026\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Numericable\NCCPF\fpi-vabf\Prospect_labox\lastversion\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v120514\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v120601\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v121024\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v121113\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v121210\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v130624\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v130821\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\20151026\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\20151026\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\201511112\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\201511112\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\ARPU_KISS\lastversion\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v120809\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v130130\web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v130701\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v130821\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EPG\v110823\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EPG\v111205\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EPG\v111207\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EPG\v120306\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\EPG\v120516\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\FootPlus\v110823\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v130918\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v130918\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v131011\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v131011\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v131114\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v131114\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v131211\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Grille\v131211\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v130813\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v150128\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v150128\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\RugbyPlus\v110823\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Upselling\v110823\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Orange ZE\ICANAL\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU\v150115\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU_KISS\201511112\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EC\v150115\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EC_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\EPG_HD\v120516\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\FootPlus\v100201\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\FootPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\FootPlus\v120619\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\20150407\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\20150407\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v150128\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v150128\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\RugbyPlus\v100201\Web.config
+D:\CPGRP\Sites\FPI Orange ZNE\OSCPF\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v120217\web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v120801\web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v121018\web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v130605\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v120724\web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v130531\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v130605\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v130719\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v130820\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v140203\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v140625\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v140716\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v140716\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EPG\v100728\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EPG\v100811\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EspaceClient\v110202\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EspaceClient\v110726\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EspaceClient\v110727\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\EspaceClient\v111116\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\FootPlus\v120803\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\FootPlus\v120822\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\FootPlus\v20110704\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v130802\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v130830\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v130930\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v131015\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v131023\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v140422\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v141014\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v141014\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Prospect\v150212\PROD_SessionState.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\RugbyPlus\v100317\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\RugbyPlus\v110728\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Upselling\v110113\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Upselling\v110712\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Upselling\v120919\Web.config
+D:\CPGRP\Sites\FPI Orange\CANAL\fpi-vabf\Upselling\v121022\Web.config
+D:\CPGRP\Sites\FPI Samsumg\SACPF\fpi-vabf\ARPU\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Samsumg\SACPF\fpi-vabf\ARPU\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Samsumg\SACPF\fpi-vabf\EC\v141124\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Samsumg\SACPF\fpi-vabf\EC\v150212\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Samsung\SACPF\fpi-vabf\ARPU_KISS\20150601\VABF_SessionState.config
+D:\CPGRP\Sites\FPI Samsung\SACPF\fpi-vabf\ARPU_KISS\lastversion\VABF_SessionState.config
+D:\CPGRP\Sites\FPI SRR\SRCPF\fpi-vabf\EPG\v110725\Web.config
+D:\CPGRP\Sites\FPI SRR\SRCPF\fpi-vabf\Upselling\v110725\Web.config
+D:\CPGRP\Sites\FPI SRR\SRCPF\fpi-vabf\Upselling\v120425\Web.config
+D:\CPGRP\Sites\FPI SRR\SRCPF\fpi-vabf\Upselling\v121022\web.config
+D:\CPGRP\Sites\FPI SRR\SRCPF\fpi-vabf\Upselling\v130301\Web.config
+D:\CPGRP\Sites\FPI SRR\SRCPF\fpi-vabf\Upselling\vtest\web.config
+D:\CPGRP\Sites\Supervision\AntenneCnx\Web.Config
+D:\CPGRP\Sites\Supervision\EpgCnx\Web.Config
+D:\CPGRP\Sites\Supervision\EpgCnx.Cos\Web.Config
+D:\CPGRP\Sites\Supervision\ServiceUser\Web.Config
+D:\CPGRP\Sites\Supervision\SessionStateModule\Web.Config
+D:\CPGRP\Sites\Supervision\ZapCnx.Cos\Web.Config
