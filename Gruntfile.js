@@ -1,6 +1,15 @@
 module.exports = function(grunt) {
 
   grunt.initConfig({
+    concat: {
+      options: {
+        separator: ';'
+      },
+      dist: {
+        src: ['src/**/*.js'],
+        dest: 'dist/<%= pkg.name %>.js'
+      }
+    },
     uglify: {
       options: {
         banner: '/*! <%= pkg.name %> <%= grunt.template.today("dd-mm-yyyy") %> */\n'
