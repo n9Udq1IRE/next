@@ -9,7 +9,7 @@ module.exports = function (grunt) {
         options: {
           process: function (content, srcpath) {
             console.log(srcpath);
-            if (srcpath === 'radios/index.html') {
+            if (srcpath === 'projets/radios/index.html') {
               content = content.replace('src="assets/js/application.js"', 'src="assets/js/application.min.js"');
             }
             return content;
