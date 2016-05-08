@@ -1,17 +1,25 @@
-module.exports = function(grunt) {
-
+module.exports = function (grunt) {
   grunt.initConfig({
+    copy: {
+      main: {
+        src: 'projets',
+        dest: 'dest',
+        options: {
+          process: function (content, srcpath) {
+            return content;
+          },
+        },
+      },
+    },
     uglify: {
       dist: {
         files: {
-          'projets/radios/assets/js/application.min.js': ['projets/radios/assets/js/application.js']
+          'dest/radios/assets/js/application.min.js': ['dest/radios/assets/js/application.js']
         }
       }
     }
   });
-
+  grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-uglify');
-
-  grunt.registerTask('default', ['uglify']);
-
+  grunt.registerTask('default', ['copy', 'uglify']);
 };
