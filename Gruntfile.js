@@ -2,8 +2,9 @@ module.exports = function (grunt) {
   grunt.initConfig({
     copy: {
       main: {
-        src: 'projets',
-        dest: 'dest',
+        expand: true,
+        src: ['projets/**'],
+        dest: 'dest/',
         options: {
           process: function (content, srcpath) {
             return content;
