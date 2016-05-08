@@ -3,7 +3,7 @@ module.exports = function (grunt) {
     copy: {
       main: {
         expand: true,
-        src: ['projets/**'],
+        src: ['projets/*'],
         dest: 'dist/',
         options: {
           process: function (content, srcpath) {
@@ -15,7 +15,7 @@ module.exports = function (grunt) {
     uglify: {
       dist: {
         files: {
-          'dist/projets/radios/assets/js/application.min.js': ['dist/projets/radios/assets/js/application.js']
+          'dist/radios/assets/js/application.min.js': ['dist/radios/assets/js/application.js']
         }
       }
     }
