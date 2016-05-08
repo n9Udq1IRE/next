@@ -2,9 +2,9 @@ module.exports = function (grunt) {
   grunt.initConfig({
     copy: {
       main: {
-        expand: false,
+        expand: true,
         src: ['projets/**'],
-        dest: 'dest/',
+        dest: 'dist/',
         options: {
           process: function (content, srcpath) {
             return content;
@@ -15,7 +15,7 @@ module.exports = function (grunt) {
     uglify: {
       dist: {
         files: {
-          'dest/radios/assets/js/application.min.js': ['dest/radios/assets/js/application.js']
+          'dist/projets/radios/assets/js/application.min.js': ['dist/projets/radios/assets/js/application.js']
         }
       }
     }
